@@ -1,0 +1,16 @@
+{
+  "name": "entypo+",
+  "version": "1.0.0",
+  "authors": [
+    "Uditha Atukorala <ua@nuked.zone>"
+  ],
+  "description": "Carefully crafted premium pictograms by Daniel Bruce",
+  "main": [
+    "css/entypo.css",
+    "fonts/entypo.eot",
+    "fonts/entypo.svg",
+    "fonts/entypo.ttf",
+    "fonts/entypo.woff"
+  ],
+  "license": "CC BY-SA 4.0"
+}
